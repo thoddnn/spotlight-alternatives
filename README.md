@@ -44,10 +44,3 @@ This page collects popular Spotlight alternatives for macOS, from simple file se
 ## Contributing
 
 If you know of another tool or want to suggest an edit, feel free to open an issue or submit a pull request.  
-
----
-
-## License
-
-[MIT](LICENSE)
-
